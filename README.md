@@ -10,6 +10,14 @@
 
 
 # Qiita Sumally
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/yuki0410_/posts.svg)](http://qiita.com/yuki0410_)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/yuki0410_/contributions.svg)](http://qiita.com/yuki0410_)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/yuki0410_/followers.svg)](http://qiita.com/yuki0410_)
+[![Qiita posts](https://qiita-badge.apiapi.app/s/yuki0410_/posts.svg)](http://qiita.com/yuki0410_)
+[![Qiita contributions](https://qiita-badge.apiapi.app/s/yuki0410_/contributions.svg)](http://qiita.com/yuki0410_)
+[![Qiita followers](https://qiita-badge.apiapi.app/s/yuki0410_/followers.svg)](http://qiita.com/yuki0410_)
+
+
+# Zenn Sumally
+[![Zenn likes](https://zenn.badge.nikaera.com/s/ohnaka0410/likes?style=flat)](https://zenn.dev/ohnaka0410)
+[![Zenn articles](https://zenn.badge.nikaera.com/s/ohnaka0410/articles?style=flat)](https://zenn.dev/ohnaka0410/articles)
+[![Zenn followers](https://zenn.badge.nikaera.com/s/ohnaka0410/followers?style=flat)](https://zenn.dev/ohnaka0410/followers)
+[![Zenn books](https://zenn.badge.nikaera.com/s/ohnaka0410/books?style=flat)](https://zenn.dev/ohnaka0410/books)
+[![Zenn scraps](https://zenn.badge.nikaera.com/s/ohnaka0410/scraps?style=flat)](https://zenn.dev/ohnaka0410/scraps)
